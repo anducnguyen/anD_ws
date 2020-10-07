@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+	<node pkg="controller_calc" type="controller_calc" name="controller_calc" output="screen" />
+	# <node pkg="rosbag" type="record" name="record" output="screen" args="-o /home/tony/ros_bag/Prefix_name -a"/>	
+</launch>

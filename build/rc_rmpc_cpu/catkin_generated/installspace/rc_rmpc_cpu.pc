@@ -1,0 +1,8 @@
+prefix=/home/suzlab/RC_ws_Car1/install
+
+Name: rc_rmpc_cpu
+Description: Description of rc_rmpc_cpu
+Version: 0.0.1
+Cflags: -I/home/suzlab/RC_ws_Car1/install/include
+Libs: -L/home/suzlab/RC_ws_Car1/install/lib 
+Requires: roscpp std_msgs
